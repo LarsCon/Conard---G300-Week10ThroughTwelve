@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lvconard/Documents/GitHub/W12D1/MyProject/Content/Inventory/WB_Inventory.uasset",
+				"C:/Users/lvconard/Documents/GitHub/W12D1/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/lvconard/Documents/GitHub/W12D1/MyProject/Content/Inventory/WB_ItemSlot.uasset",
+				"C:/Users/lvconard/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/lvconard/Documents/Unreal Projects/MyProject/Content/Inventory/DA_Item.uasset",
+				"C:/Users/lvconard/Documents/Unreal Projects/MyProject/Content/Inventory/DA-BlueKey.uasset",
+				"C:/Users/lvconard/Documents/Unreal Projects/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/lvconard/Documents/Unreal Projects/MyProject/Content/Inventory/MeleeInstance.uasset",
+				"C:/Users/lvconard/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/lvconard/Documents/Unreal Projects/MyProject/Content/Inventory/BPI_ItemPickup.uasset",
+				"C:/Users/lvconard/Documents/Unreal Projects/MyProject/Content/Inventory/BP_ItemPickup.uasset",
+				"C:/Users/lvconard/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TF/QG3NXUNAKGMSP8S9IK66Y0.uasset"
+			]
+		}
+	]
+}
